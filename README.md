@@ -1,1 +1,1 @@
-# Restaurant_app
+# Restaurant management system
