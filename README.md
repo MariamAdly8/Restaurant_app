@@ -23,10 +23,3 @@ To run this project, you need to have Visual Studio 2019 or later, SQL Server 20
 ## Usage
 
 After logging in, you will see the main form with different options depending on your need. You can place order or go to dashboard to manage menu items or users information.
-
-![Inventory management](https://www.kashipara.com/project/c-net/2918/restaurant-management-system)
-![Reports and statistics](https://github.com/kujalk/Restaurant-Management-System)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
