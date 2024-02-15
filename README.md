@@ -17,7 +17,6 @@ To run this project, you need to have Visual Studio 2019 or later, SQL Server 20
 - Open the solution file (Resturant App.sln) in Visual Studio
 - Build the solution and restore the NuGet packages
 - In the app.config file, change the connection string to match your SQL Server instance name and credentials
-- Run the SQL script (DatabaseScript.sql) in SQL Server to create the database and tables
 - Run the project and login
 
 ## Usage
